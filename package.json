@@ -26,6 +26,7 @@
         "@sl-code-lords/esana-news": "latest",
         "@sl-code-lords/si-subdl": "^1.1.1",
         "@sl-code-lords/movie-dl": "^1.1.0",
+        "ttSearch": "*",
         "@sl-code-lords/text-pro-me": "^1.0.0",
         "@sl-code-lords/photooxy": "^1.0.1",
         "tech-news-scraper": "latest",
